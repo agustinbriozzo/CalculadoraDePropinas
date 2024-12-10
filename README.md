@@ -1,6 +1,6 @@
 # Calculadora de Propinas y Consumos
 
-Una aplicación interactiva que permite gestionar consumos y calcular propinas de forma sencilla, ideal para dividir cuentas en restaurantes o reuniones.
+Una aplicación interactiva que permite gestionar consumos y calcular propinas de forma sencilla.
 
 ## Demo
 
